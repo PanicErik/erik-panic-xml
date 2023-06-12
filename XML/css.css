@@ -1,0 +1,21 @@
+.tip {
+    transform: perspective(1000px) rotateY(6deg);
+    padding: 25px;
+    gap: 25px;
+    border: 2px solid #eee;
+    box-shadow: 0 0 30px rgb(0 0 0 / 10%);
+
+}
+
+.tip2 {
+    transform: perspective(1000px) rotateY(-6deg);
+    padding: 25px;
+    gap: 25px;
+    border: 2px solid #eee;
+    box-shadow: 0 0 30px rgb(0 0 0 / 10%);
+
+}
+
+img {
+    border: 1px solid black;
+}

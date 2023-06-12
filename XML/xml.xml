@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knjižnica>
+        <knjiga id="1">
+            <id>
+            tip
+            </id>
+            <naslov>
+            Zločin i kazna
+            </naslov>
+            <pisac>
+            Fyodor Dostoevsky
+            </pisac>
+            <opis>
+            Zločin i kazna je roman ruskog pisca Fjodora Mihajloviča Dostojevskog izdan 1866. godine u časopisu Ruski vjesnik. Smatra se jednim od najvećih djela ruske književnosti.
+            </opis>
+            <slika>
+            zlocin_kazna.jpg
+            </slika>
+        </knjiga>
+        <knjiga id="2">
+            <id>
+            tip2
+            </id>
+            <naslov>
+            Čudnovate zgode šegrta hlapića
+            </naslov>
+            <pisac>
+            Ivana Brlić Mažuranić
+            </pisac>
+            <opis>
+            Čudnovate zgode šegrta Hlapića prvi je roman Ivane Brlić-Mažuranić i prvi hrvatski roman za djecu. Objavljen 1913., postao je prototip dječjeg romana u hrvatskoj književnosti.
+            </opis>
+            <slika>
+            hlaponja.jpg
+            </slika>
+        </knjiga>       
+        <knjiga id="3">
+            <id>
+            tip
+            </id>
+            <naslov>
+            Božanstvena komedija
+            </naslov>
+            <pisac>
+            Dante Alighieri
+            </pisac>
+            <opis>
+            Božanstvena komedija epski je spjev, koji je napisao Dante Alighieri između 1304. i svoje smrti 1321. To je ujedno i najpoznatije Danteovo djelo, koje se smatra i centralnim epskim spjevom talijanske književnosti.
+            </opis>
+            <slika>
+            dante.jpg
+            </slika>
+        </knjiga>
+</knjižnica>
